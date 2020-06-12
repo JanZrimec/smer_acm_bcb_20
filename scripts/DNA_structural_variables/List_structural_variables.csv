@@ -1,0 +1,59 @@
+﻿Reference;Property;Units;Model;Group;Derived from
+Santalucia 1998;dG;kcal/mol;thermodynamic;Phys-chem;experiment
+Santalucia 1998;dH;kcal/mol;thermodynamic;Phys-chem;experiment
+Santalucia 1998;dS;mol/K cal;thermodynamic;Phys-chem;experiment
+Protozanova 2004;dGst;kcal/mol;thermodynamic;Phys-chem;experiment
+Protozanova 2004;dGbp;kcal/mol;thermodynamic;Phys-chem;experiment
+Protozanova 2004;dGkl;kcal/mol;thermodynamic;Phys-chem;experiment
+Gotoh&Tagashira 1981;Tm;deg C;thermodynamic;Phys-chem;experiment
+Breslauer 1986;BC;kJ/mol;thermodynamic;Phys-chem;experiment
+Aida 1998;BA;kJ/mol;thermodynamic;Phys-chem;experiment
+Ho 1986. Hartmann 1989;BZ;kJ/mol;thermodynamic;Phys-chem;experiment
+Kulkarni&Mukherjee 2013;BA_k;kcal/mol;thermodynamic;Phys-chem;experiment
+Perez 2004;dGst_2;kcal/mol;thermodynamic;Phys-chem;experiment
+Kulkarni&Mukherjee 2013;Zp;A;unknown;Conformational;experiment
+Perez 2004;Twist;deg;curvature;Conformational;computation
+Perez 2004;Tilt;deg;curvature;Conformational;computation
+Perez 2004;Roll;deg;curvature;Conformational;computation
+Perez 2004;Shift;A;curvature;Conformational;computation
+Perez 2004;Slide;A;curvature;Conformational;computation
+Perez 2004;Rise;A;curvature;Conformational;computation
+Packer 2000;Phi_slide;kJ mol-1 A-2;curvature;Conformational;experiment
+Packer 2000;Phi_shift;kJ mol-1 A-2;curvature;Conformational;experiment
+Gartenberg&Crothers 1988;Maj_bend;mu;curvature;Conformational;experiment
+Gartenberg&Crothers 1988;Min_bend;mu;curvature;Conformational;experiment
+Bolshoy 1991;Wdg;deg;wedge;Conformational;experiment
+Bolshoy 1991;Dir;deg;wedge;Conformational;experiment
+Kabsch 1982;HT_wdg;deg;curvature;Conformational;experiment
+Gorin 1995;ProT2;deg;curvature;Conformational;experiment
+Gorin 1995;C2;A;clash function;Conformational;experiment
+Gorin 1995;MajS;A;clash function;Conformational;experiment
+Gorin 1995;MajD;A;clash function;Conformational;experiment
+Gorin 1995;MinS;A;clash function;Conformational;experiment
+Gorin 1995;MinD;A;clash function;Conformational;experiment
+Geggier 2010;z;nm;inverse;Conformational;experiment
+Geggier 2010;h;bp/turn;NN;Conformational;experiment
+Sivolob&Kharpunov 1995;z2_set1;nm;inverse;Conformational;experiment
+Sivolob&Kharpunov 1995;z2_set2;nm;inverse;Conformational;experiment
+Olson 1998;Deform;deg^3 A^3;NN;DNA-protein;experiment
+Olson 1998;Twist2;deg;curvature;DNA-protein;experiment
+Olson 1998;Tilt2;deg;curvature;DNA-protein;experiment
+Olson 1998;Roll2;deg;curvature;DNA-protein;experiment
+Olson 1998;Shift2;A;curvature;DNA-protein;experiment
+Olson 1998;Slide2;A;curvature;DNA-protein;experiment
+Olson 1998;Rise2;A;curvature;DNA-protein;experiment
+Brukner 1995b;u2;cleavage freq.;DNAzeI;DNA-protein;experiment
+Karas 1996;Twist3;deg;curvature;Conformational;computation
+Karas 1996;Rise3;A;curvature;Conformational;computation
+Karas 1996;Bend;deg;curvature;Conformational;computation
+Karas 1996;Tip;deg;curvature;Conformational;computation
+Karas 1996;Inclination;deg;curvature;Conformational;computation
+Karas 1996;MajWidth;A;curvature;Conformational;computation
+Karas 1996;MajDepth;A;curvature;Conformational;computation
+Karas 1996;MinWidth;A;curvature;Conformational;computation
+Karas 1996;MinDepth;A;curvature;Conformational;computation
+Brukner 1995;u;cleavage freq.;DNAzeI;DNA-protein;experiment
+Satchwell 1986;var;fraction;nucleosome;DNA-protein;experiment
+Satchwell 1986;phase;deg;nucleosome;DNA-protein;experiment
+Goodsell&Dickerson 1994;Roll3;deg;nucleosome;DNA-protein;experiment
+Zrimec 2015;TIDD;no. of events;TIDD;Phys-chem;computation
