@@ -5,7 +5,7 @@ Figure. Schematic depiction of the (A) construction and (B) usage of structural 
 
 ---------------
 
-This repository contains scripts to reproduce the figures and analysis. The data is available at [Zenodo](10.5281/zenodo.3891576).
+This repository contains scripts to reproduce the figures and analysis. The data is available at [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3891576.svg)](https://doi.org/10.5281/zenodo.3891576).
 
 Requires Matlab v2017b (Bioinformatics Toolbox v4.9), 
 Python v3.6 (numpy v1.15.4, pandas v0.24.2, pyfaidx v0.5.5.2, seaborn v0.9.0, scipy v1.1.0, biopython v1.72) and 
