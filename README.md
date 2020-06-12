@@ -1,6 +1,9 @@
 # DNA structural representations
 
-![alt text](https://github.com/JanZrimec/smer_acm_bcb_20/docs/smir_fig_smers.png "Logo Title Text 1")
+<img src=https://github.com/JanZrimec/smer_acm_bcb_20/blob/master/docs/smir_fig_smers.png alt="drawing" width="400">
+Figure. Schematic depiction of the (A) construction and (B) usage of structural representations. In a structural representation of a given DNA sequence, each central nucleotide position and its neighboring regions define a k-mer from 3 to 9 bp in length, and are encoded as an s-mer with n structural dimensions (S. dim.) that can be defined as a sequence of s-mer cluster centroids.
+
+<br/><br/>
 
 This repository contains scripts and data to reproduce the figures and analysis.
 
