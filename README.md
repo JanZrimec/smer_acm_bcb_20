@@ -7,7 +7,7 @@ Figure. Schematic depiction of the (A) construction and (B) usage of structural 
 
 ---------------
 
-Supplementary Table S1 and Figure S1 are available [here](https://github.com/JanZrimec/smer_acm_bcb_20/blob/master/manuscript/rev1/2020_Zrimec-supplements.pdf).
+Supplementary Table S1 and Figure S1 are available [here](https://github.com/JanZrimec/smer_acm_bcb_20/blob/master/docs/2020_Zrimec-supplements.pdf).
 
 This repository contains scripts to reproduce the figures and analysis. The data is available at [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3891576.svg)](https://doi.org/10.5281/zenodo.3891576).
 
