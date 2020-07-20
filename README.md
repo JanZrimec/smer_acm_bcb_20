@@ -7,12 +7,14 @@ Figure. Schematic depiction of the (A) construction and (B) usage of structural 
 
 ---------------
 
+Supplementary Table S1 and Figure S1 are available [here](https://github.com/JanZrimec/smer_acm_bcb_20/blob/master/manuscript/rev1/2020_Zrimec-supplements.pdf).
+
 This repository contains scripts to reproduce the figures and analysis. The data is available at [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3891576.svg)](https://doi.org/10.5281/zenodo.3891576).
 
 Requires Matlab v2017b (Bioinformatics Toolbox v4.9), 
 Python v3.6 (numpy v1.15.4, pandas v0.24.2, pyfaidx v0.5.5.2, seaborn v0.9.0, scipy v1.1.0, biopython v1.72) and 
 R v3.5 (DNAshapeR v1.10.0), or higher. 
 
-See also the repositories: [DNA_structural_variables predictor](https://github.com/JanZrimec/DNA_structural_variables),
+See also the repositories [DNA_structural_variables predictor](https://github.com/JanZrimec/DNA_structural_variables) for prediction of DNA structural properties and
 [Non-parametric_multivariate ANOVA_with bootstraps](https://github.com/JanZrimec/NP_MANOVA_bootstrap).
 
