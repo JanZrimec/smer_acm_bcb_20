@@ -1,0 +1,320 @@
+\begin{thebibliography}{10}
+
+\bibitem{Rohs2009-hm}
+Remo Rohs, Sean~M West, Alona Sosinsky, Peng Liu, Richard~S Mann, and Barry
+  Honig.
+\newblock The role of {DNA} shape in {protein--DNA} recognition.
+\newblock {\em Nature}, 461(7268):1248--1253, October 2009.
+
+\bibitem{Zrimec2015-xf}
+Jan Zrimec and Ales Lapanje.
+\newblock Fast prediction of {DNA} melting bubbles using {DNA} thermodynamic
+  stability.
+\newblock {\em IEEE/ACM Trans. Comput. Biol. Bioinform.}, 12(5):1137--1145,
+  September 2015.
+
+\bibitem{Zrimec2018-lx}
+Jan Zrimec and Ale{\v s} Lapanje.
+\newblock {DNA} structure at the plasmid origin-of-transfer indicates its
+  potential transfer range.
+\newblock {\em Sci. Rep.}, 8(1):1820, January 2018.
+
+\bibitem{Chen2012-gd}
+Wei Chen, Pengmian Feng, and Hao Lin.
+\newblock Prediction of replication origins by calculating {DNA} structural
+  properties.
+\newblock {\em FEBS Lett.}, 586(6):934--938, March 2012.
+
+\bibitem{Zrimec2020-wx}
+Jan Zrimec.
+\newblock Multiple plasmid origin-of-transfer substrates enable the spread of
+  natural antimicrobial resistance to human pathogens.
+\newblock {\em bioRxiv}, page 2020.04.20.050401, April 2020.
+
+\bibitem{Watson2008-dt}
+James~D Watson, Tania~A Baker, Stephen~P Bell, Alexander Gann, Michael~K
+  Levine, and Richard Losick.
+\newblock {\em Molecular Biology of the Gene. 6th. ed}.
+\newblock Pearson/Benjamin Cummings, 2008.
+
+\bibitem{De_La_Cruz2010-xj}
+Fernando De~La~Cruz, Laura~S Frost, Richard~J Meyer, and Ellen~L Zechner.
+\newblock Conjugative {DNA} metabolism in gram-negative bacteria.
+\newblock {\em FEMS Microbiol. Rev.}, 34(1):18--40, January 2010.
+
+\bibitem{Levo2015-iu}
+Michal Levo, Einat Zalckvar, Eilon Sharon, Ana~Carolina Dantas~Machado, Yael
+  Kalma, Maya Lotam-Pompan, Adina Weinberger, Zohar Yakhini, Remo Rohs, and
+  Eran Segal.
+\newblock Unraveling determinants of transcription factor binding outside the
+  core binding site.
+\newblock {\em Genome Res.}, 25(7):1018--1029, July 2015.
+
+\bibitem{Marcovitz2013-kg}
+Amir Marcovitz and Yaakov Levy.
+\newblock Weak frustration regulates sliding and binding kinetics on rugged
+  {Protein--DNA} landscapes.
+\newblock {\em The Journal of Physical Chemistry B}, 117(42):13005--13014,
+  2013.
+
+\bibitem{Tosato2017-nq}
+Valentina Tosato, Nicole West, Jan Zrimec, Dmitri~V Nikitin, Giannino Del~Sal,
+  Roberto Marano, Michael Breitenbach, and Carlo~V Bruschi.
+\newblock Bridge-induced translocation between {NUP145} and {TOP2} yeast genes
+  models the genetic fusion between the human orthologs associated with acute
+  myeloid leukemia.
+\newblock {\em Front. Oncol.}, 7:231, 2017.
+
+\bibitem{Slattery2014-ne}
+Matthew Slattery, Tianyin Zhou, Lin Yang, Ana~Carolina Dantas~Machado, Raluca
+  Gord{\^a}n, and Remo Rohs.
+\newblock Absence of a simple code: how transcription factors read the genome.
+\newblock {\em Trends Biochem. Sci.}, 39(9):381--399, September 2014.
+
+\bibitem{SantaLucia1998-hc}
+J~SantaLucia, Jr.
+\newblock A unified view of polymer, dumbbell, and oligonucleotide {DNA}
+  nearest-neighbor thermodynamics.
+\newblock {\em Proc. Natl. Acad. Sci. U. S. A.}, 95(4):1460--1465, February
+  1998.
+
+\bibitem{Bishop2011-jm}
+Eric~P Bishop, Remo Rohs, Stephen C~J Parker, Sean~M West, Peng Liu, Richard~S
+  Mann, Barry Honig, and Thomas~D Tullius.
+\newblock A map of minor groove shape and electrostatic potential from hydroxyl
+  radical cleavage patterns of {DNA}.
+\newblock {\em ACS Chem. Biol.}, 6(12):1314--1320, December 2011.
+
+\bibitem{Chiu2016-kb}
+Tsu-Pei Chiu, Federico Comoglio, Tianyin Zhou, Lin Yang, Renato Paro, and Remo
+  Rohs.
+\newblock {DNAshapeR}: an {R/Bioconductor} package for {DNA} shape prediction
+  and feature encoding.
+\newblock {\em Bioinformatics}, 32(8):1211--1213, April 2016.
+
+\bibitem{Brukner1995-pt}
+Ivan Brukner, Roberto Sanchez, Dietrich Suck, and Sandor Pongor.
+\newblock Sequence-dependent bending propensity of {DNA} as revealed by {DNase}
+  i: parameters for trinucleotides.
+\newblock {\em EMBO J.}, 14(8):1812--1818, 1995.
+
+\bibitem{Geggier2010-mw}
+Stephanie Geggier and Alexander Vologodskii.
+\newblock Sequence dependence of {DNA} bending rigidity.
+\newblock {\em Proc. Natl. Acad. Sci. U. S. A.}, 107(35):15421--15426, August
+  2010.
+
+\bibitem{Karas1996-qz}
+H~Karas, R~Kn{\"u}ppel, W~Schulz, H~Sklenar, and E~Wingender.
+\newblock Combining structural analysis of {DNA} with search routines for the
+  detection of transcription regulatory elements.
+\newblock {\em Comput. Appl. Biosci.}, 12(5):441--446, October 1996.
+
+\bibitem{Olson1998-rw}
+Wilma~K Olson, Andrey~A Gorin, Xiang-Jun Lu, Lynette~M Hock, and Victor~B
+  Zhurkin.
+\newblock {DNA} sequence-dependent deformability deduced from {protein--DNA}
+  crystal complexes.
+\newblock {\em Proc. Natl. Acad. Sci. U. S. A.}, 95(19):11163--11168, September
+  1998.
+
+\bibitem{Perez2004-sx}
+Alberto Perez, Agnes Noy, Filip Lankas, F~Javier Luque, and Modesto Orozco.
+\newblock The relative flexibility of {B-DNA} and {A-RNA} duplexes: database
+  analysis.
+\newblock {\em Nucleic Acids Res.}, 32(20):6144--6151, 2004.
+
+\bibitem{Aida1988-iq}
+Misako Aida.
+\newblock An ab initio molecular orbital study on the sequence-dependency of
+  {DNA} conformation: An evaluation of intra- and inter-strand stacking
+  interaction energy.
+\newblock {\em Journal of Theoretical Biology}, 130(3):327--335, 1988.
+
+\bibitem{Hartmann1989-ji}
+B~Hartmann, B~Malfoy, and R~Lavery.
+\newblock Theoretical prediction of base sequence effects in {DNA}.
+  experimental reactivity of {Z-DNA} and {B-Z} transition enthalpies.
+\newblock {\em J. Mol. Biol.}, 207(2):433--444, May 1989.
+
+\bibitem{Kulkarni2013-xm}
+Mandar Kulkarni and Arnab Mukherjee.
+\newblock Sequence dependent free energy profiles of localized {B-} to a-form
+  transition of {DNA} in water.
+\newblock {\em J. Chem. Phys.}, 139(15):155102, October 2013.
+
+\bibitem{Ho1986-hg}
+Pui~S Ho, Michael~J Ellison, Gary~J Quigley, and Alexander Rich.
+\newblock A computer aided thermodynamic approach for predicting the formation
+  of {Z-DNA} in naturally occurring sequences.
+\newblock {\em EMBO J.}, 5(10):2737--2744, 1986.
+
+\bibitem{Zrimec2013-ds}
+Jan Zrimec, Rok Kopin{\v c}, Toma{\v z} Rijavec, Tatjana Zrimec, and Ale{\v s}
+  Lapanje.
+\newblock Band smearing of {PCR} amplified bacterial {16S} {rRNA} genes:
+  dependence on initial {PCR} target diversity.
+\newblock {\em J. Microbiol. Methods}, 95(2):186--194, November 2013.
+
+\bibitem{Samee2019-xj}
+Md~Abul~Hassan Samee, Benoit~G Bruneau, and Katherine~S Pollard.
+\newblock A de novo shape motif discovery algorithm reveals preferences of
+  transcription factors for {DNA} shape beyond sequence motifs.
+\newblock {\em Cell Systems}, 8(1):27--42.e6, 2019.
+
+\bibitem{Bansal2014-ko}
+Manju Bansal, Aditya Kumar, and Venkata~Rajesh Yella.
+\newblock Role of {DNA} sequence based structural features of promoters in
+  transcription initiation and gene expression.
+\newblock {\em Curr. Opin. Struct. Biol.}, 25:77--85, April 2014.
+
+\bibitem{Lucas2010-gi}
+Mar{\'\i}a Lucas, Blanca Gonz{\'a}lez-P{\'e}rez, Matilde Cabezas, Gabriel
+  Moncalian, Germ{\'a}n Rivas, and Fernando de~la Cruz.
+\newblock Relaxase {DNA} binding and cleavage are two distinguishable steps in
+  conjugative {DNA} processing that involve different sequence elements of the
+  nic site.
+\newblock {\em J. Biol. Chem.}, 285(12):8918--8926, March 2010.
+
+\bibitem{Sut2009-kg}
+Marta~V Sut, Sanja Mihajlovic, Silvia Lang, Christian~J Gruber, and Ellen~L
+  Zechner.
+\newblock Protein and {DNA} effectors control the {TraI} conjugative helicase
+  of plasmid {R1}.
+\newblock {\em J. Bacteriol.}, 191(22):6888--6899, November 2009.
+
+\bibitem{Moncalian1999-qj}
+Gabriel Moncalian, Mikel Valle, Jose~Maria Valpuesta, and Fernando de~la Cruz.
+\newblock {IHF} protein inhibits cleavage but not assembly of plasmid {R388}
+  relaxosomes.
+\newblock {\em Molecular Microbiology}, 31(6):1643--1652, 1999.
+
+\bibitem{Williams2007-be}
+Sarah~L Williams and Joel~F Schildbach.
+\newblock {TraY} and integration host factor orit binding sites and {F}
+  conjugal transfer: sequence variations, but not altered spacing, are
+  tolerated.
+\newblock {\em J. Bacteriol.}, 189(10):3813--3823, May 2007.
+
+\bibitem{Khan2018-wj}
+Aziz Khan, Oriol Fornes, Arnaud Stigliani, Marius Gheorghe, Jaime~A
+  Castro-Mondragon, Robin van~der Lee, Adrien Bessy, Jeanne Ch{\`e}neby,
+  Shubhada~R Kulkarni, Ge~Tan, Damir Baranasic, David~J Arenillas, Albin
+  Sandelin, Klaas Vandepoele, Boris Lenhard, Beno{\^\i}t Ballester, Wyeth~W
+  Wasserman, Fran{\c c}ois Parcy, and Anthony Mathelier.
+\newblock {JASPAR} 2018: update of the open-access database of transcription
+  factor binding profiles and its web framework.
+\newblock {\em Nucleic Acids Res.}, 46(D1):D1284, January 2018.
+
+\bibitem{Gusmao2014-hp}
+E~G Gusm{\"a}o and M~C~P de~Souto.
+\newblock Issues on sampling negative examples for predicting prokaryotic
+  promoters.
+\newblock In {\em 2014 International Joint Conference on Neural Networks
+  ({IJCNN})}, pages 494--501. IEEE, July 2014.
+
+\bibitem{Gama-Castro2016-so}
+Socorro Gama-Castro, Heladia Salgado, Alberto Santos-Zavaleta, Daniela
+  Ledezma-Tejeida, Luis Mu{\~n}iz-Rascado, Jair~Santiago Garc{\'\i}a-Sotelo,
+  Kevin Alquicira-Hern{\'a}ndez, Irma Mart{\'\i}nez-Flores, Lucia Pannier,
+  Jaime~Abraham Castro-Mondrag{\'o}n, Alejandra Medina-Rivera, Hilda
+  Solano-Lira, C{\'e}sar Bonavides-Mart{\'\i}nez, Ernesto P{\'e}rez-Rueda,
+  Shirley Alquicira-Hern{\'a}ndez, Liliana Porr{\'o}n-Sotelo, Alejandra
+  L{\'o}pez-Fuentes, Anastasia Hern{\'a}ndez-Koutoucheva, V{\'\i}ctor Del
+  Moral-Ch{\'a}vez, Fabio Rinaldi, and Julio Collado-Vides.
+\newblock {RegulonDB} version 9.0: high-level integration of gene regulation,
+  coexpression, motif clustering and beyond.
+\newblock {\em Nucleic Acids Res.}, 44(D1):D133--43, January 2016.
+
+\bibitem{Rousseeuw1987-mx}
+Peter~J Rousseeuw.
+\newblock Silhouettes: a graphical aid to the interpretation and validation of
+  cluster analysis.
+\newblock {\em J. Comput. Appl. Math.}, 20:53--65, 1987.
+
+\bibitem{Tibshirani2001-wq}
+Robert Tibshirani, Guenther Walther, and Trevor Hastie.
+\newblock Estimating the number of clusters in a data set via the gap
+  statistic.
+\newblock {\em J. R. Stat. Soc. Series B Stat. Methodol.}, 63(2):411--423, May
+  2001.
+
+\bibitem{Schneider1986-iv}
+T~D Schneider, G~D Stormo, L~Gold, and A~Ehrenfeucht.
+\newblock Information content of binding sites on nucleotide sequences.
+\newblock {\em J. Mol. Biol.}, 188(3):415--431, April 1986.
+
+\bibitem{Anderson2001-zz}
+Marti~J Anderson.
+\newblock A new method for non-parametric multivariate analysis of variance.
+\newblock {\em Austral Ecol.}, 26(1):32--46, 2001.
+
+\bibitem{Peyrard2009-as}
+M~Peyrard, S~Cuesta-L{\'o}pez, and D~Angelov.
+\newblock Experimental and theoretical studies of sequence effects on the
+  fluctuation and melting of short {DNA} molecules.
+\newblock {\em J. Phys. Condens. Matter}, 21(3):034103, January 2009.
+
+\bibitem{Protozanova2004-xc}
+Ekaterina Protozanova, Peter Yakovchuk, and Maxim~D Frank-Kamenetskii.
+\newblock {Stacked--Unstacked} equilibrium at the nick site of {DNA}.
+\newblock {\em Journal of Molecular Biology}, 342(3):775--785, 2004.
+
+\bibitem{Bolshoy1991-ux}
+A~Bolshoy, P~McNamara, and {others}.
+\newblock Curved {DNA} without {AA}: experimental estimation of all 16 {DNA}
+  wedge angles.
+\newblock {\em Proceedings of the}, 6(88):2312--6, 1991.
+
+\bibitem{Gorin1995-es}
+A~A Gorin, V~B Zhurkin, and W~K Olson.
+\newblock {B-DNA} twisting correlates with base-pair morphology.
+\newblock {\em J. Mol. Biol.}, 247(1):34--48, March 1995.
+
+\bibitem{Kabsch1982-tv}
+W~Kabsch, C~Sander, and E~N Trifonov.
+\newblock The ten helical twist angles of {B-DNA}.
+\newblock {\em Nucleic Acids Research}, 10(3):1097--1104, 1982.
+
+\bibitem{Packer2000-ri}
+M~J Packer, M~P Dauncey, and C~A Hunter.
+\newblock Sequence-dependent {DNA} structure: dinucleotide conformational maps.
+\newblock {\em J. Mol. Biol.}, 295(1):71--83, January 2000.
+
+\bibitem{Satchwell1986-me}
+S~C Satchwell, H~R Drew, and A~A Travers.
+\newblock Sequence periodicities in chicken nucleosome core {DNA}.
+\newblock {\em J. Mol. Biol.}, 191(4):659--675, October 1986.
+
+\bibitem{Garcillan-Barcia2009-yk}
+Mar{\'\i}a~Pilar Garcill{\'a}n-Barcia, Mar{\'\i}a~Victoria Francia, and
+  Fernando de~la Cruz.
+\newblock The diversity of conjugative relaxases and its application in plasmid
+  classification.
+\newblock {\em FEMS Microbiol. Rev.}, 33(3):657--687, May 2009.
+
+\bibitem{Anderson2005-pu}
+Marti~J Anderson.
+\newblock Permutational multivariate analysis of variance.
+\newblock {\em Department of Statistics, University of Auckland, Auckland},
+  26:32--46, 2005.
+
+\bibitem{Bengio2013-xg}
+Yoshua Bengio, Aaron Courville, and Pascal Vincent.
+\newblock Representation learning: a review and new perspectives.
+\newblock {\em IEEE Trans. Pattern Anal. Mach. Intell.}, 35(8):1798--1828,
+  August 2013.
+
+\bibitem{Zrimec2019-ql}
+J~Zrimec, F~Buric, A~S Muhammad, R~Chen, V~Verendel, and {others}.
+\newblock Gene expression is encoded in all parts of a co-evolving interacting
+  gene regulatory structure.
+\newblock {\em bioRxiv}, page 10.1101/792531, 2019.
+
+\bibitem{Stepancic2014-yu}
+{\v Z}iva Stepan{\v c}i{\v c}.
+\newblock Enhancing gibbs sampling method for motif finding in {DNA} with
+  initial graph representation of sequences.
+\newblock {\em Journal of Computational Biology}, 21(10):741--752, 2014.
+
+\end{thebibliography}
