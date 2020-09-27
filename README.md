@@ -15,6 +15,5 @@ Requires Matlab v2017b (Bioinformatics Toolbox v4.9),
 Python v3.6 (numpy v1.15.4, pandas v0.24.2, pyfaidx v0.5.5.2, seaborn v0.9.0, scipy v1.1.0, biopython v1.72) and 
 R v3.5 (DNAshapeR v1.10.0), or higher. 
 
-See also the repositories [DNA_structural_variables predictor](https://github.com/JanZrimec/DNA_structural_variables) for prediction of DNA structural properties and
-[Non-parametric_multivariate ANOVA_with bootstraps](https://github.com/JanZrimec/NP_MANOVA_bootstrap).
-
+See also the repositories [DNA_structural_variables predictor](https://github.com/JanZrimec/DNA_structural_variables) for prediction of DNA structural properties,
+[Non-parametric_multivariate ANOVA_with bootstraps](https://github.com/JanZrimec/NP_MANOVA_bootstrap) and [oriT-Strast](https://github.com/JanZrimec/oriT-Strast) for the alignment algorithm.
